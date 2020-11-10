@@ -1,0 +1,1 @@
+Troisème fichier test de la commande Fetch.
